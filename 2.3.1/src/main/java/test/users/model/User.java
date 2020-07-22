@@ -3,7 +3,7 @@ package test.users.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "usersspring")
+@Table(name = "springmvc")
 public class User {
     public User() {
     }
